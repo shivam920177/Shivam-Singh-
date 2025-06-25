@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract GridSwap is Ownable {
-    IERC20 public energyToken;
+    IERC20 public energyToken; 
 
     struct Trade {
         address seller;
