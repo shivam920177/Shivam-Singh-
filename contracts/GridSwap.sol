@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract GridSwap is Ownable {
     IERC20 public energyToken; 
 
-    struct Trade {
+    struct Trade { 
         address seller;
         uint256 amount;
         uint256 pricePerUnit;
