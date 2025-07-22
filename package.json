@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx hardhat test",
     "compile": "npx hardhat compile",
-    "deploy": "npx hardhat run scripts/deploy.js --network coreTestnet"
+    "deploy": "npx hardhat run scripts/deploy.js --network coreTestnet" 
   },
   "keywords": [],
   "author": "",
