@@ -6,7 +6,7 @@ async function main() {
 
   const EnergyToken = await hre.ethers.getContractFactory("EnergyToken");
   const energyToken = await EnergyToken.deploy();
-  await energyToken.deployed();
+  await energyToken.deployed(); 
   console.log("EnergyToken deployed to:", energyToken.address); 
 
   const GridSwap = await hre.ethers.getContractFactory("GridSwap");
