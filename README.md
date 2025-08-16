@@ -8,7 +8,7 @@ GridSwap is a decentralized platform enabling peer-to-peer (P2P) trading of rene
  
 To democratize energy markets by facilitating direct energy transactions between individuals, fostering a sustainable and decentralized energy ecosystem.
   
-## Key Features
+## Key Features 
 
 - **P2P Energy Trading**: Enables direct energy transactions between users.
 - **Smart Contracts**: Automates trade execution and settlement.
