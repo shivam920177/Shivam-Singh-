@@ -5,7 +5,7 @@ async function main() {
   console.log("Deploying contracts with the account:", deployer.address);
 
   const EnergyToken = await hre.ethers.getContractFactory("EnergyToken");
-  const energyToken = await EnergyToken.deploy();
+  const energyToken = await EnergyToken.deploy(); 
   await energyToken.deployed(); 
   console.log("EnergyToken deployed to:", energyToken.address); 
 
