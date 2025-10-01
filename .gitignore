@@ -8,7 +8,7 @@ artifacts/
 cache/ 
 typechain-types/
 
-# IDE files
+# IDE files 
 .vscode/
 .idea/
 *.iml
