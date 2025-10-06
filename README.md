@@ -3,7 +3,7 @@
 ## Project Description 
    
 GridSwap is a decentralized platform enabling peer-to-peer (P2P) trading of renewable energy. Using blockchain technology, it allows prosumers to sell excess energy directly to consumers, eliminating intermediaries and promoting clean energy adoption. 
-   
+    
 ## Project Vision           
    
 To democratize energy markets by facilitating direct energy transactions between individuals, fostering a sustainable and decentralized energy ecosystem.
